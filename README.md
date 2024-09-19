@@ -1,4 +1,4 @@
-## 🏦 Bankanalytics_project
+## 🏦 BankAnalytics_project
 
 
 📊 This is a **bank loan of customers data analysis project**, using Excel, Power bi, Tableau and SQL.
