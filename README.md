@@ -1,7 +1,7 @@
 ## 🏦 Bankanalytics_project
 
 
-📊 This is a **Bank loan of customers data analysis**, using Excel, Power bi, Tableau and SQL.
+📊 This is a **bank loan of customers data analysis project**, using Excel, Power bi, Tableau and SQL.
 
 - Utilized Excel for data cleaning and preprocessing to ensure data integrity and accuracy for analysis.
 - Developed interactive dashboards in Tableau and Power BI to visualize customer loan trends and key 
